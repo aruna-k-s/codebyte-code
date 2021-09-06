@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.eca3fe42.chunk.css",
-    "main.js": "/my-app/static/js/main.e5a6296e.chunk.js",
-    "main.js.map": "/my-app/static/js/main.e5a6296e.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.3ed7ae08.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.3ed7ae08.js.map",
-    "static/js/2.6c1c454b.chunk.js": "/my-app/static/js/2.6c1c454b.chunk.js",
-    "static/js/2.6c1c454b.chunk.js.map": "/my-app/static/js/2.6c1c454b.chunk.js.map",
-    "static/js/3.abbec244.chunk.js": "/my-app/static/js/3.abbec244.chunk.js",
-    "static/js/3.abbec244.chunk.js.map": "/my-app/static/js/3.abbec244.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.eca3fe42.chunk.css.map": "/my-app/static/css/main.eca3fe42.chunk.css.map",
-    "static/js/2.6c1c454b.chunk.js.LICENSE.txt": "/my-app/static/js/2.6c1c454b.chunk.js.LICENSE.txt",
-    "static/media/navbar.css": "/my-app/static/media/JobHunt.91fb9056.svg",
-    "static/media/home.css": "/my-app/static/media/select_location.7a7a4e6f.svg"
+    "main.css": "/codebyte-code/static/css/main.f41d8836.chunk.css",
+    "main.js": "/codebyte-code/static/js/main.e5a6296e.chunk.js",
+    "main.js.map": "/codebyte-code/static/js/main.e5a6296e.chunk.js.map",
+    "runtime-main.js": "/codebyte-code/static/js/runtime-main.169ed0ef.js",
+    "runtime-main.js.map": "/codebyte-code/static/js/runtime-main.169ed0ef.js.map",
+    "static/js/2.6c1c454b.chunk.js": "/codebyte-code/static/js/2.6c1c454b.chunk.js",
+    "static/js/2.6c1c454b.chunk.js.map": "/codebyte-code/static/js/2.6c1c454b.chunk.js.map",
+    "static/js/3.abbec244.chunk.js": "/codebyte-code/static/js/3.abbec244.chunk.js",
+    "static/js/3.abbec244.chunk.js.map": "/codebyte-code/static/js/3.abbec244.chunk.js.map",
+    "index.html": "/codebyte-code/index.html",
+    "static/css/main.f41d8836.chunk.css.map": "/codebyte-code/static/css/main.f41d8836.chunk.css.map",
+    "static/js/2.6c1c454b.chunk.js.LICENSE.txt": "/codebyte-code/static/js/2.6c1c454b.chunk.js.LICENSE.txt",
+    "static/media/navbar.css": "/codebyte-code/static/media/JobHunt.91fb9056.svg",
+    "static/media/home.css": "/codebyte-code/static/media/select_location.7a7a4e6f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ed7ae08.js",
+    "static/js/runtime-main.169ed0ef.js",
     "static/js/2.6c1c454b.chunk.js",
-    "static/css/main.eca3fe42.chunk.css",
+    "static/css/main.f41d8836.chunk.css",
     "static/js/main.e5a6296e.chunk.js"
   ]
 }
